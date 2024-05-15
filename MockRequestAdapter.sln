@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexRothwell.MockRequestAdapter", "AlexRothwell.MockRequestAdapter\AlexRothwell.MockRequestAdapter.csproj", "{169C5F4A-2957-4467-BAFD-7CFFF5C1A356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexRothwell.KiotaSample", "AlexRothwell.KiotaSample\AlexRothwell.KiotaSample.csproj", "{C0EF755E-0A9E-42F5-88BF-CC18A56A7B74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{169C5F4A-2957-4467-BAFD-7CFFF5C1A356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{169C5F4A-2957-4467-BAFD-7CFFF5C1A356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{169C5F4A-2957-4467-BAFD-7CFFF5C1A356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EF755E-0A9E-42F5-88BF-CC18A56A7B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EF755E-0A9E-42F5-88BF-CC18A56A7B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EF755E-0A9E-42F5-88BF-CC18A56A7B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EF755E-0A9E-42F5-88BF-CC18A56A7B74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
