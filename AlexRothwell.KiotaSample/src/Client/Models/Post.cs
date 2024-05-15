@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System;
-namespace KiotaPosts.Client.Models {
+namespace AlexRothwell.KiotaSample.Models {
     #pragma warning disable CS1591
     public class Post : IAdditionalDataHolder, IParsable 
     #pragma warning restore CS1591

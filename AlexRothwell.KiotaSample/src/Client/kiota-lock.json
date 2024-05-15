@@ -4,7 +4,7 @@
   "lockFileVersion": "1.0.0",
   "kiotaVersion": "1.14.0",
   "clientClassName": "PostsClient",
-  "clientNamespaceName": "KiotaPosts.Client",
+  "clientNamespaceName": "AlexRothwell.KiotaSample",
   "language": "CSharp",
   "usesBackingStore": false,
   "excludeBackwardCompatible": false,

@@ -1,1 +1,1 @@
-﻿dotnet kiota generate -l CSharp -c PostsClient -n KiotaPosts.Client -d posts-api.yml -o ./src/Client --co
+﻿dotnet kiota generate -l CSharp -c PostsClient -n AlexRothwell.KiotaSample -d posts-api.yml -o ./src/Client --co
